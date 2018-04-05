@@ -1,0 +1,18 @@
+.card {
+    position: relative;
+    width: 18rem;
+    border: solid 5px red;
+    background-color: red;
+    display: inline-block;
+}
+
+.testDiv {
+    width: 200px;
+    height: 50px;
+    border: solid 5px red;
+    float: left;
+    margin-right: 20px;
+    box-sizing: border-box;
+    backface-visibility: hidden;
+    overflow: hidden;
+}

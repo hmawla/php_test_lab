@@ -1,0 +1,64 @@
+body {
+    /*padding-top: 50px;*/
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-text {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-light {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background-color: #FFFFFFEE;
+    border-bottom: 2px solid #19bebe;
+    min-height: 50px;
+}
+
+.nav-link {
+    font-weight: bold;
+    min-height: 50px;
+    padding-top: 14px;
+    color: #19bebe !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+    background-color: #19bebe;
+}
+
+.dropdown-menu {
+    border-radius: 0px;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-top: 0px solid;
+    border-color: #19bebe;
+    padding: 0px 0 0 0;
+}
+
+.dropdown-item:hover {
+    color: white !important;
+    background-color: #19bebe;
+}
+
+.btn-outline-info {
+    color: #19bebe;
+    border-color: #19bebe;
+}
+
+.btn-outline-info:hover {
+    background-color: #19bebe;
+    border-color: #19bebe;
+}
+
+.form-control:focus {
+    box-shadow: 0px 0px 6px #19bebe;
+    border-color: #19bebe;
+}
