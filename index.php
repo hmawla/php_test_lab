@@ -50,10 +50,8 @@
                                 Cards
                             </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <?php
-                                include 'dropdown.php';
-                                getCard();
-                        ?>
+                            <a class="dropdown-item" href="#">Touch</a>
+                            <a class="dropdown-item" href="#">Alfa</a>
                         </div>
                     </li>
                 </ul>
