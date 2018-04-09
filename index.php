@@ -58,8 +58,8 @@
                 <span class="navbar-text">
                         <?php
                             include 'encryptor.php';
-                            if(isset($_COOKIE['loggedName'])){
-                                echo "Welcome: " . doDecrypt($_COOKIE['loggedName']) . '<a href="logout-exec.php"> Logout</a>';
+                            if(isset($_COOKIE['shopLoggedName'])){
+                                echo "Welcome: " . doDecrypt($_COOKIE['shopLoggedName']) . '<a href="logout-exec.php"> Logout</a>';
                             }
                             else{
                                 echo '<a href="login.php">Login</a>';
