@@ -6,8 +6,5 @@
         while($row = mysqli_fetch_assoc($result)){
             echo '<a class="dropdown-item" href="#">' . $row['brandname'] . '</a>';
         }
-
     }
-    
-    
 ?>

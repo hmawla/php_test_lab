@@ -187,16 +187,6 @@
         </div>
     </div>
 
-
-
-
-
-
-
-
-
-
-
     <script>
         (function($) {
             "use strict";
