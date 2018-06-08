@@ -1,2 +1,4 @@
 [12-Apr-2018 01:58:41 UTC] PHP Notice:  Undefined index: theEmailLogin in /home/tl8vk6atqg01/public_html/php_test_lab/login-exec.php on line 7
 [12-Apr-2018 01:58:41 UTC] PHP Notice:  Undefined index: thePassLogin in /home/tl8vk6atqg01/public_html/php_test_lab/login-exec.php on line 8
+[07-Jun-2018 10:31:28 UTC] PHP Fatal error:  Cannot redeclare getBrands() (previously declared in /home/tl8vk6atqg01/public_html/php_test_lab/dropdown.php:3) in /home/tl8vk6atqg01/public_html/php_test_lab/dropdown.php on line 9
+[07-Jun-2018 10:31:31 UTC] PHP Fatal error:  Cannot redeclare getBrands() (previously declared in /home/tl8vk6atqg01/public_html/php_test_lab/dropdown.php:3) in /home/tl8vk6atqg01/public_html/php_test_lab/dropdown.php on line 9
